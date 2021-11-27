@@ -1,0 +1,8 @@
+:host {
+    ion-item {
+      &:hover {
+        cursor: pointer;
+        --background-hover: #6666 !important;
+      }
+    }
+  }
