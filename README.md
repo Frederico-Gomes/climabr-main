@@ -1,6 +1,6 @@
 # ClimaBR
 
-Trabalho final da disciplina GCC132 Mmdelagem e implementação de software
+Trabalho final da disciplina GCC132 Modelagem e implementação de software
 
 # Como usar?
 
